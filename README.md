@@ -17,3 +17,6 @@
 ## RDL and relbench:
 
 ### GNN based model for tabular prediction: https://colab.research.google.com/drive/1tJBCV2ENB0GG9_pdlVG8bt7Gpaf-2h3J?usp=sharing
+
+## Video Playlist:
+### https://www.youtube.com/playlist?list=PLbA83Of28IMIM_n0GIEioLPFfN5RDqi5E
